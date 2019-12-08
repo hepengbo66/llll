@@ -1,0 +1,10 @@
+1|t12312312|tdsa@qq.com|t |t18
+2|t12312312|tdsa@qq.com|txxxx|t18
+3|t12312312|tdsa@qq.com|txxxx|t18
+4|t12312312|tdsa@qq.com|t |t18
+5|t12312312|tdsa@qq.com|txxxx|t18
+6|t12312312|tdsa@qq.com|txxxx|t18
+7|t12312312|tdsa@qq.com|txxxx|t18
+8|t12312312|tdsa@qq.com|t |t18
+9|t12312312|tdsa@qq.com|txxxx|t18
+10|t12312312|tdsa@qq.com|txxxx|t 
